@@ -1,0 +1,2 @@
+/data/ML01/buildroot-wpe/output/host/usr/bin/arm-buildroot-linux-gnueabihf-gcc test.cpp -o test  -L/data/ML01/buildroot-wpe/output/host/usr/arm-buildroot-linux-gnueabihf/sysroot/usr/lib -lGLESv2 -lEGL -lbcm_host -lvchostif -lm -lpng
+
